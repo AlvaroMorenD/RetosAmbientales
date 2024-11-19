@@ -1,5 +1,5 @@
 # Retos Ambientales
-![introduccion](img/introduccion)
+![introduccion](img/introduccion.jpg)
 ## Índice
 1.1. Introducción
 
