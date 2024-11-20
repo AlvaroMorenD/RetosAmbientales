@@ -1,5 +1,6 @@
 # Retos Ambientales
 ![introduccion](img/introduccion.jpg)
+---
 Imagen Realizada con IA
 ## Índice
 1.1. [Introducción]()
