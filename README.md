@@ -14,3 +14,6 @@
 ## [Glosario (Alianza, Auditoría, Biodegradable, Efecto invernadero, Insalubre, Migración, Pandemía, Retp, Saneamiento)]()
 ## [Referencias]()
 ## [Autores]()
+- Iván Palma Sierra
+- Iker Cupillar Aliaga
+- Álvaro Moreno Dominguez
