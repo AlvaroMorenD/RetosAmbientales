@@ -31,4 +31,4 @@ También pondremos un puñado de ejemplos en el apartado de retos sociales:
 
   estos retos ambientales y sociales están conectados y necesitas de solución urgente.
 
-  ![problemasambientales](img/problemasambientales.jpg)
+![problemasambientales](img/problemasambientales.jpg)
