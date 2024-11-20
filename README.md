@@ -12,7 +12,7 @@ Imagen Realizada con IA
 1.4. [Medidas y acciones para minimizar los impactos ambientales]()
  
 ## [Conclusiones]()
-## [Mapa conceptual]() 
+## [Mapa conceptual](mapaconceptual.md) 
 ## [Glosario (Alianza, Auditoría, Biodegradable, Efecto invernadero, Insalubre, Migración, Pandemía, Retp, Saneamiento)]()
 ## [Referencias]()
 ## [Autores]()
