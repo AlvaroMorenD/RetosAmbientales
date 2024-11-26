@@ -7,4 +7,4 @@ Y en este proyecto os explicaremos que soluciones podemos aplicar y los problema
 climático entre mucho más.
 ![retos](img/retos.jpg)
 
-[referencia](file:///home/1asir/Descargas/Dialnet-DesafiosAmbientalesYSocialesFrenteAlCambioClimatic-9095451-1.pdf)
+[referencia](https://campusformaciongranada.es/wp-content/uploads/2024/11/Tema-2-sostenibilidad-.pdf)
