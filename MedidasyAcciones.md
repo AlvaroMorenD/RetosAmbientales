@@ -14,4 +14,5 @@ Estas son algunas medidas/acciones para minimizar los impactos ambientales:
 * Educación y concienciación ambiental.
 * Políticas y regulaciones ambientales.
 * Innovación tecnológica.
-![medidas](img/medidas.jpg)
+
+![medidas](img/medidas.png)
