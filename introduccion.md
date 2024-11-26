@@ -6,3 +6,4 @@ interconectados y exigen soluciones urgentes. Resolverlos es crucial para asegur
 Y en este proyecto os explicaremos que soluciones podemos aplicar y los problemas que se pueden generar con el cambio
 climático entre mucho más.
 ![retos](img/retos.jpg)
+![referencia](file:///home/1asir/Descargas/Dialnet-DesafiosAmbientalesYSocialesFrenteAlCambioClimatic-9095451.pdf)
