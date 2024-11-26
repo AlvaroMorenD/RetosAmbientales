@@ -16,3 +16,5 @@ Estas son algunas medidas/acciones para minimizar los impactos ambientales:
 * Innovación tecnológica.
 
 ![medidas](img/medidas.png)
+
+[Referencia](https://sdgs.un.org/)
