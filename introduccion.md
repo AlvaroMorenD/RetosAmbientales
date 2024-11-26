@@ -6,5 +6,4 @@ interconectados y exigen soluciones urgentes. Resolverlos es crucial para asegur
 Y en este proyecto os explicaremos que soluciones podemos aplicar y los problemas que se pueden generar con el cambio
 climático entre mucho más.
 ![retos](img/retos.jpg)
-
-![referencia](https://www.ibm.com/mx-es/topics/environmental-issues)
+[referencia](https://www.ibm.com/mx-es/topics/environmental-issues)
