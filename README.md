@@ -9,7 +9,7 @@ Imagen Realizada con IA
 
 1.3. [Impacto de los actuales problemas medioambientales]()
 
-1.4. [Medidas y acciones para minimizar los impactos ambientales](MedidasyAcciones.md)
+1.4. [Medidas y acciones para minimizar los impactos ambientales](medidasyacciones.md)
  
 ## [Conclusiones]()
 ## [Mapa conceptual](mapaconceptual.md) 
