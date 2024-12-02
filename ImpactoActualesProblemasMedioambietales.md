@@ -14,6 +14,7 @@ Los problemas medioambientales actuales tienen un gran impacto en la salud human
 
 - **Contaminación lumínica**: esto es debido al exceso de iluminación artificial, especialmente en las areas urbanas. Tiene impactos negativos en los ecosistemas y en la salud humana.
 
+![iker](impacto.webp)
 
 
 
