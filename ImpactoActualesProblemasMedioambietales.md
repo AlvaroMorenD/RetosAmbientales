@@ -10,7 +10,11 @@ Los problemas medioambientales actuales tienen un gran impacto en la salud human
 
 - **Pérdida de la bideodiversisad**: las actividades humanas como la deforestación, la expansión agrícola, la contaminación y el cambio climático.
 
-- **Contaminación del aire, agua y suelo**: emisiones industriales, uso excesivo de plásticos, productos, químicos agrícolas  
+- **Contaminación del aire, agua y suelo**: emisiones industriales, uso excesivo de plásticos, productos, químicos agrícolas. Esto deriva en los *agentes contaminantes físicos*, que afecta a todos los seres vivos de este planeta
+
+-**Contaminación lumínica**: esto es debido al exceso de iluminación artificial, especialmente en las areas urbanas. Tiene impactos negativos en los ecosistemas y en la salud humana.
+
+
 
 
 
