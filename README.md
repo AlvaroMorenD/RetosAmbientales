@@ -14,7 +14,6 @@ Imagen Realizada con IA
 ## [Conclusiones]()
 ## [Mapa conceptual](mapaconceptual.md) 
 ## [Glosario (Alianza, Auditoría, Biodegradable, Efecto invernadero, Insalubre, Migración, Pandemía, Retp, Saneamiento)](https://www.canva.com/design/DAGXrMpNKFs/JnGVMU9QjNGquODAEW4UNQ/edit?utm_content=DAGXrMpNKFs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-## [Referencias]()
 ## [Autores]()
 - Iván Palma Sierra
 - Iker Cupillar Aliaga
