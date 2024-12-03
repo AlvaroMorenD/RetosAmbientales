@@ -13,3 +13,5 @@ y como sociedad:
 * Garantizar justicia social y respeto por los derechos humanos fortalece la cohesión y resiliencia de las sociedades.
 
 * Solo con la colaboración entre gobiernos, comunidades, empresas e individuos podemos construir un futuro más equitativ
+
+![conclusion](img/conclusion.jpg)
