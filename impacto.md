@@ -16,6 +16,11 @@ Los problemas medioambientales actuales tienen un gran impacto en la salud human
 
 ![iker](img/ImpactoMedioAmbiente.jpg)
 
+## [Referencia1](https://www.un.org/es/climatechange/science/causes-effects-climate-change)
+
+## [Referencia2](https://ciencia.nasa.gov/cambio-climatico/los-efectos-del-cambio-climatico/)
+
+
 
 
 
