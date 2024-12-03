@@ -8,4 +8,4 @@ climático entre mucho más.
 
 ![retos](img/retos.jpg)
 
-[Referencia](https://campusformaciongranada.es/wp-content/uploads/2024/11/Tema-2-sostenibilidad-.pdf)
+## [Referencia](https://campusformaciongranada.es/wp-content/uploads/2024/11/Tema-2-sostenibilidad-.pdf)
