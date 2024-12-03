@@ -1,6 +1,6 @@
 # Principales retos ambientales y sociales
 
-Los retos ambientales y sociales son aquellos problemas más importantes que afectan al planeta y a nosotros cómo personas. También estos desafíos están relacionados en cómo cuidaremos la naturaleza y el cómo viviremos juntos cómo sociedad, los retos ambientales son aquellos problemas que dañan al medio ambiente y ponen en peligro la vida del planeta tierra. A continuación pondremos unos ejemplos:
+Los retos ambientales y sociales son aquellos problemas más importantes que afectan al planeta y a nosotros cómo personas. También estos desafíos están relacionados en cómo cuidaremos la naturaleza y el cómo viviremos juntos cómo sociedad. A continuación pondremos unos ejemplos:
 
 * Cambio Climático: amuento de temperaturas, sequías y inundaciones.
 
