@@ -7,7 +7,7 @@ Imagen Realizada con IA
 
 1.2. [Principales retos ambientales y sociales](principalesretos.md)
 
-1.3. [Impacto de los actuales problemas medioambientales]()
+1.3. [Impacto de los actuales problemas medioambientales](impacto.md)
 
 1.4. [Medidas y acciones para minimizar los impactos ambientales](medidasyacciones.md)
  
