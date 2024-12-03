@@ -17,4 +17,4 @@ Estas son algunas medidas/acciones para minimizar los impactos ambientales:
 
 ![medidas](img/medidas.png)
 
-[Referencia](https://sdgs.un.org/)
+## [Referencia](https://sdgs.un.org/)
