@@ -1,4 +1,4 @@
-# Retos Ambientales
+# Retos Ambientales y Sociales
 ![introduccion](img/introduccion.jpg)
 ---
 Imagen Realizada con IA
